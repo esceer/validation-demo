@@ -117,7 +117,6 @@ Proof of concept project for trying out spring validation capabilities.
     "mode": "enabled",
     "code": "fitting",
     "embeddedM": {
-        "name": "name"
     }
 }
 ```
